@@ -98,3 +98,9 @@ After the Debian packages are installed, all reading and searching is performed 
 KJV Terminal does not distribute the King James Version text or the SWORD KJV module. The scripts operate on the `sword-text-kjv` module installed separately through Debian.
 
 The searchable `kjv.txt` file is generated locally by `kjv-build` and is not included in this repository.
+
+## License
+
+The KJV Terminal scripts in this repository are released under the MIT License. See `LICENSE`.
+
+This license applies only to the KJV Terminal scripts and documentation in this repository. SWORD, Diatheke, the `sword-text-kjv` package, and the Bible text are separate works and are not licensed by this repository.
