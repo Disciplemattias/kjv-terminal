@@ -92,3 +92,9 @@ The Bible is generated one chapter at a time to avoid SWORD/Diatheke headings le
 ## Offline Use
 
 After the Debian packages are installed, all reading and searching is performed locally. No Internet connection is required.
+
+## Bible Text and SWORD
+
+KJV Terminal does not distribute the King James Version text or the SWORD KJV module. The scripts operate on the `sword-text-kjv` module installed separately through Debian.
+
+The searchable `kjv.txt` file is generated locally by `kjv-build` and is not included in this repository.
