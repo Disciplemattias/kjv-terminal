@@ -1,0 +1,3 @@
+#!/bin/bash
+
+grep -iF -- "$*" "$HOME/.local/share/kjv/kjv.txt"

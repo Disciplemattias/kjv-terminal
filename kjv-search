@@ -1,0 +1,2 @@
+#!/bin/bash
+diatheke -b engKJV2006eb -s phrase -k "$*"
